@@ -10,5 +10,5 @@ Sample project to implement multiplayer interaction using normcore in Unity3D
 
 ## Demo
 
-<img src="Demos/demo-oculus.gif" />
-<img src="Demos/demo-unity.png" />
+<img src="Demos/demo-oculus.gif" width="700" height="700" />
+<img src="Demos/demo-unity.png" width="700" />
